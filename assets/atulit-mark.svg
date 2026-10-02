@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Atulit mark">
+  <!-- Left leg -->
+  <polygon fill="#0F172A" points="256,56 198,56 52,456 148,456 256,196"/>
+  <!-- Right leg -->
+  <polygon fill="#0F172A" points="256,56 314,56 460,456 364,456 256,196"/>
+  <!-- Soft teal crossbar (sole accent) -->
+  <rect x="158" y="300" width="196" height="36" rx="6" fill="#2A9D8F"/>
+</svg>

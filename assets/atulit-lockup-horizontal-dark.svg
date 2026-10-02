@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" width="1600" height="400" role="img" aria-label="Atulit">
+  <g transform="translate(48,56) scale(0.5625)">
+    <polygon fill="#F7F3EB" points="256,56 198,56 52,456 148,456 256,196"/>
+    <polygon fill="#F7F3EB" points="256,56 314,56 460,456 364,456 256,196"/>
+    <rect x="158" y="300" width="196" height="36" rx="6" fill="#2A9D8F"/>
+  </g>
+  <text x="400" y="245"
+        font-family="Inter, Manrope, Helvetica Neue, Arial, sans-serif"
+        font-size="132" font-weight="600"
+        letter-spacing="26"
+        fill="#F7F3EB">ATULIT</text>
+</svg>
